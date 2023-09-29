@@ -503,8 +503,8 @@
   }
 
   .columns {
-    float: left;
-    width: 33.3%;
+    display: inline-block;
+    width: 32%;
     padding: 8px;
   }
   
